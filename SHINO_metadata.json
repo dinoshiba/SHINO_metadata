@@ -1,0 +1,7 @@
+{
+  "name": "DinoShiba",
+  "symbol": "SHINO",
+  "image": "https://raw.githubusercontent.com/dinoshiba/SHINO_metadata/refs/heads/main/SHINO.png",
+  "uri": "https://raw.githubusercontent.com/dinoshiba/SHINO_metadata/refs/heads/main/SHINO_metadata.json",
+  "seller_fee_basis_points": 500
+}
