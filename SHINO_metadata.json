@@ -1,7 +1,15 @@
 {
   "name": "DinoShiba",
   "symbol": "SHINO",
+  "description": "Experience the joy of DinoShiba's daily adventures! Watch as our adorable friend combines the charm of a Shiba Inu with the playful spirit of a tiny dinosaur.",
   "image": "https://raw.githubusercontent.com/dinoshiba/SHINO_metadata/refs/heads/main/SHINO.png",
-  "uri": "https://raw.githubusercontent.com/dinoshiba/SHINO_metadata/refs/heads/main/SHINO_metadata.json",
-  "seller_fee_basis_points": 500
+  "creator": {
+    "name": "DinoShiba's Father",
+    "site": "https://dinoshiba.me/"
+  },
+  "extensions": {
+    "twitter": "https://x.com/dinoshiba_me",
+    "website": "https://dinoshiba.me",
+    "telegram": "https://t.me/dinoshiba_me"
+  }
 }
